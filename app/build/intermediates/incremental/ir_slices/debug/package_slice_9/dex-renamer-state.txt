@@ -1,0 +1,4 @@
+#Wed Aug 14 19:45:29 ICT 2019
+base.0=D\:\\dokumen\\semester 6\\TUBES_AKB\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
